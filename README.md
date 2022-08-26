@@ -13,8 +13,9 @@ Graduando em Engenharia de Software (UNICSUL)
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchrisostomo&layout=compact&langs_count=7&theme=merko"/>
 </a>
 </div>
+<br>
 
-Atualmente estou estudando:
+#### Atualmente estou estudando:
 
 <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> Java (intermediário)
 
