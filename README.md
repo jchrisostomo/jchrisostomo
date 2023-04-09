@@ -3,10 +3,6 @@
 Graduado em Física (UFU)<br>
 Graduando em Engenharia de Software (UNICSUL)
 
-- Procurando por primeiro cargo na área de desenvolvimento ou de  ciência de dados
-- Experiência em gestão de projetos de engenharia de telecomunicações
-- Experiência com metodologias ágeis
-
 <div align="left">
 <a href="https://github.com/jchrisostomo">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jchrisostomo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
